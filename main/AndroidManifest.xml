@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.inti.student.workoutcf">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".SquatsActivity" />
+        <activity android:name=".LungesActivity" />
+        <activity android:name=".PlankActivity" />
+        <activity android:name=".PushUpsActivity" />
+        <activity android:name=".SingleLegActivity" />
+        <activity android:name=".DisplaySquatsVid" />
+        <activity android:name=".DisplayLungesVid" />
+        <activity android:name=".DisplayPlankVid" />
+        <activity android:name=".DisplayPushUpsVid" />
+        <activity android:name=".DisplaySingleLegVid" />
+        <activity android:name=".BMIcalculator" />
+        <activity android:name=".ToDolist" />
+        <activity android:name=".ListDataActivity" />
+        <activity android:name=".EditDataActivity"></activity>
+    </application>
+
+</manifest>

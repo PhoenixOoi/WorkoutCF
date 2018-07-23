@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Workout CF</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="SquatsButton">Start</string>
+    <string name="LungesButton">Start</string>
+    <string name="PlankButton">Start</string>
+    <string name="PushUpsButton">Start</string>
+    <string name="SingleLegButton">Start</string>
+    <string name="reset">Reset</string>
+    <string name="weight">Weight (Kg)</string>
+    <string name="height">Height (cm)</string>
+    <string name="calculateBMI">Calculate BMI</string>
+    <string name="Title">BMI CALCULATOR</string>
+    <string name="iconname">BMI Calculator</string>
+    <string name="todoiconname">To Do list</string>
+
+    <string name="vsunderweight">Very Severely underweight</string>
+    <string name="sunderweight">Severely underweight</string>
+    <string name="underweight">Underweight</string>
+    <string name="normal">Normal</string>
+    <string name="overweight">Overweight</string>
+    <string name="obese1">Obesity Class: Moderately Obese</string>
+    <string name="obese2">Obesity Class: Severely Obese</string>
+    <string name="obese3">Obesity Class: Very Severely Obese</string>
+</resources>
+
